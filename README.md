@@ -19,3 +19,5 @@ It will ask you to enter SSH Username and SSH IP/Aliases.
 
 Reference to SSH aliases, please take a look to [this guide](https://coderwall.com/p/dou7uw/multiple-aliases-on-every-entry-of-ssh-s-config-file).
 
+SC : [dulldusk](https://github.com/dulldusk/autossh)
+

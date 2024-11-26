@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/JawaTengahXploit1337/AutoSSH" alt="AutoSSH">
+    <img src="image.png" alt="AutoSSH">
+  </a>
+</p>
+
 # Deskripsi
 
 *AutoSSH adalah script Bash sederhana untuk menjaga koneksi SSH tetap aktif dengan fitur auto-reconnect. Jika koneksi terputus, script akan otomatis mencoba menghubungkan kembali ke server. Tools ini dirancang untuk jaringan tidak stabil, memberikan animasi visual progres, dan user-friendly dengan input fleksibel untuk username dan hostname.*

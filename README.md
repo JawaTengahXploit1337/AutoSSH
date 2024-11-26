@@ -11,7 +11,7 @@
 # Installation
 
 ```bash
-wget https://raw.github.com/hectornguyen/autossh/master/autossh.sh -O /usr/local/bin/autossh
+wget https://raw.githubusercontent.com/JawaTengahXploit1337/AutoSSH/main/autossh.sh -O /usr/local/bin/autossh
 ```
 # Usage
 

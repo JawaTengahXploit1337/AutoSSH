@@ -1,3 +1,7 @@
+# Deskripsi
+
+*AutoSSH adalah script Bash sederhana untuk menjaga koneksi SSH tetap aktif dengan fitur auto-reconnect. Jika koneksi terputus, script akan otomatis mencoba menghubungkan kembali ke server. Tools ini dirancang untuk jaringan tidak stabil, memberikan animasi visual progres, dan user-friendly dengan input fleksibel untuk username dan hostname.*
+
 # Installation
 
 ```bash
